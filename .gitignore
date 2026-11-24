@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+screenshots/
+test-output/
+src/test/resources/config.local.properties
